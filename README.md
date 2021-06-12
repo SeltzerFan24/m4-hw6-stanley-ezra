@@ -1,5 +1,9 @@
 # JavaScript Pizza
 
+Notes from Ezra:
+
+At first I had no idea what was going on. Then, I started looking at the basic building blocks I was working with (objects, arrays, etc) and was able to Google questions relevant to the problem I was trying to solve. I found it useful to consider each step of the process very carefully instead of having the mindset of "this should easily come to mind all at once." The resourses I used included the Mozilla developer website, Stack Overflow, and W3 Schools. 
+
 ## Background
 
 For this assignment, you are being tasked with completing an ordering system for a new business named "Web to Pizza". The ordering system will allow a user to click the "Order Now!" button, then ask the user a series of questions about their pizza order before returning a receipt that includes the order description and cost of the pizza. As a new developer on the team, you are being tasked with completing the pizza-ordering functionality for another developer that was pulled in a different direction.
